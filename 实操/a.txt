@@ -1,0 +1,18 @@
+将Excel数据写入数据库中
+
+c=xlrd.open_workbook(filename='信息表.xlsx')
+# table=c.sheets()[0]
+k=table.nrows
+# x=[]
+
+for i in range(k):
+#a=table.row_values(i)
+k=tuple(a)
+
+#print(k)
+x.append(k)
+j=tuple(x)
+# print(j)
+eqweeeee
+我去额
+dsd
